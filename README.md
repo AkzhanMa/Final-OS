@@ -1,4 +1,4 @@
 # Final-OSC
-Group name: CS-2110S
-Participants : Akzhan Mataev(Head leader), Karsybaev Azamat, Zhumabek Margulan, Raisov Daniel, Kurmangaliev Asanali.
-Teacher name : Arailym Tleubayeva
+<b>Group name: CS-2110S
+<b>Participants : Akzhan Mataev(Head leader), Karsybaev Azamat, Zhumabek Margulan, Raisov Daniel, Kurmangaliev Asanali.
+<b>Teacher name : Arailym Tleubayeva
